@@ -1,5 +1,10 @@
 ### Hello World 👋
-I am a Full Stack Deep Learning Engineer in Japan.
+My name is Sihan A and I am a Full Stack Deep Learning Engineer in Japan.
+
+- [takhi](https://github.com/Sihan-A/takhi): my some utility notes about data science & ML projecs
+- [programming_tools](https://github.com/Sihan-A/programming_tools)
+- [LeetCode-questions-Python](https://github.com/Sihan-A/LeetCode-questions-Python)
+- [cifar10_lightning](https://github.com/Sihan-A/cifar10_lightning)
 
 ## Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Sihan%20A-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sihan-a)](https://www.linkedin.com/in/sihan-a)
