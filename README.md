@@ -10,14 +10,3 @@ My name is Sihan A, and I am a Full Stack Deep Learning Engineer in Japan.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Sihan%20A-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sihan-a)](https://www.linkedin.com/in/sihan-a)
 [![Medium Badge](https://img.shields.io/badge/-Sihan%20A-lightgrey?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sihan-a)](https://medium.com/@sihan-a)
-
-
-
-Notes
-
-|       |                                                              |      |
-| ----- | ------------------------------------------------------------ | ---- |
-| Linux | [Docker](https://www.notion.so/sihan-a/Docker-5c7e4930eb324df9ae2082204a425000) |      |
-|       |                                                              |      |
-|       |                                                              |      |
-
