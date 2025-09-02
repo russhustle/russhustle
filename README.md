@@ -1,5 +1,5 @@
 ## Hello World 👋
-My name is Sihan A, and I am a Full Stack Deep Learning Engineer in Japan.
+My name is Sihan A, and I am a Machine Learning Engineer.
 
 ## Connect with me
 
